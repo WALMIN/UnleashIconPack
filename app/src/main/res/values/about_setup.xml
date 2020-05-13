@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation,MissingTranslation">
+    <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
+        <item>https://walmin.com/unleashiconpack/images/walmin.jpg</item>
+        <item>https://walmin.com/unleashiconpack/images/felicia.jpg</item>
+        <item>https://walmin.com/unleashiconpack/images/mohamed.jpg</item>
+    </string-array>
+
+    <string-array name="credits_titles">
+        <item>Victor Bergene</item>
+        <item>Felicia Gustavsson</item>
+        <item>Mohamed Abdi Abdillahi</item>
+    </string-array>
+
+    <string-array name="credits_descriptions">
+        <item>I\'ve made apps. Now I\'ve made an icon pack too.</item>
+        <item>I helped &amp; I took some wallpapers.</item>
+        <item>I took some wallpapers too.</item>
+    </string-array>
+
+    <string-array name="credits_buttons">
+        <item>My apps|Website|Instagram</item>
+        <item>Instagram</item>
+        <item>Instagram</item>
+    </string-array>
+
+    <string-array name="credits_links">
+        <item>https://play.google.com/store/apps/dev?id=6020993160698769181|https://walmin.com|https://instagram.com/walminofficial</item>
+        <item>https://instagram.com/feliciagustavsson_</item>
+        <item>https://instagram.com/momme_01</item>
+    </string-array>
+</resources>
