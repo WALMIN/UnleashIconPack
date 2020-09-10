@@ -16,11 +16,13 @@
         <item>lucid</item>
         <item>niagara</item>
         <item>nova</item>
+        <item>oneplus</item>
         <item>pixel</item>
         <item>posidon</item>
         <item>smart</item>
         <item>smartpro</item>
         <item>solo</item>
+        <item>square</item>
         <item>tsf</item>
     </string-array>
 </resources>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="v1.0" />
+    <version title="v1.1 (Sep 10, 2020)" />
+    <item text="80 new icons." />
+    <item text="Dashboard updated." />
+
+    <version title="v1.0 (May 13, 2020)" />
     <item text="Initial release." />
 </resources>

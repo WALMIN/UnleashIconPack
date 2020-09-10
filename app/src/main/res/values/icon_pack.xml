@@ -37,12 +37,16 @@
 
     <string-array name="all">
         <item>acast</item>
+        <item>achievement</item>
         <item>adidas_running</item>
         <item>adidas_training</item>
         <item>aegis</item>
+        <item>aide</item>
+        <item>aimo</item>
         <item>airbnb</item>
         <item>amazon_appstore</item>
         <item>android</item>
+        <item>another_widget</item>
         <item>appnotifier</item>
         <item>asus_router</item>
         <item>aurora_droid</item>
@@ -52,58 +56,76 @@
         <item>avanza</item>
         <item>babbel</item>
         <item>bankid</item>
+        <item>barcode_scanner</item>
         <item>battery_level_viewer</item>
+        <item>beer_buddy</item>
         <item>big_days</item>
         <item>bird</item>
         <item>bitcoin_wallet</item>
         <item>bitmoji</item>
+        <item>blinkist</item>
         <item>blocket</item>
         <item>blocket_jobb</item>
         <item>blokada</item>
+        <item>bodyweight_fitness</item>
         <item>bokningsappen</item>
+        <item>bolt</item>
         <item>boomerang</item>
         <item>boost</item>
+        <item>brandbassador</item>
         <item>bredbandskollen</item>
+        <item>burger_king</item>
         <item>c25k</item>
+        <item>caffeine</item>
         <item>calculator</item>
         <item>calendar</item>
         <item>calisteniapp</item>
         <item>camera</item>
         <item>canva</item>
+        <item>canvas_student</item>
+        <item>cards</item>
         <item>centr</item>
         <item>challenge_of_the_day</item>
         <item>chat</item>
         <item>chrome</item>
         <item>chrome_canary</item>
         <item>circ</item>
+        <item>citygross</item>
         <item>classroom</item>
         <item>clock</item>
+        <item>clock_pickup</item>
         <item>comics</item>
         <item>community</item>
         <item>contacts</item>
+        <item>coopons</item>
         <item>couple_game</item>
         <item>cryptotab_browser</item>
         <item>csn</item>
         <item>daily_yoga</item>
         <item>dalatrafik</item>
+        <item>darker_sky</item>
         <item>designlab</item>
         <item>device_policy</item>
         <item>digital_wellbeing</item>
         <item>din_tur</item>
         <item>discord</item>
         <item>docs</item>
+        <item>dplay</item>
         <item>drive</item>
         <item>droidcam</item>
         <item>droidcamx</item>
+        <item>drunkmode</item>
         <item>duckduckgo</item>
         <item>duo</item>
         <item>easypark</item>
+        <item>ebay</item>
         <item>electrum</item>
         <item>endomondo</item>
         <item>espressohouse</item>
         <item>evernote</item>
         <item>exercise_hub</item>
         <item>exercise_hub_plus</item>
+        <item>expressen</item>
         <item>facebook</item>
         <item>facebook_lite</item>
         <item>fairemail</item>
@@ -114,11 +136,14 @@
         <item>firefox</item>
         <item>fit</item>
         <item>follower_analyzer</item>
+        <item>foodora_se</item>
         <item>freeletics</item>
         <item>free_games_radar</item>
+        <item>friskis_uppsala</item>
         <item>f_droid</item>
         <item>galaxy_wearable</item>
         <item>gallery</item>
+        <item>gif_live_wallpaper</item>
         <item>github</item>
         <item>gmail</item>
         <item>google</item>
@@ -136,6 +161,7 @@
         <item>gopro</item>
         <item>green_screen</item>
         <item>grindr</item>
+        <item>grow</item>
         <item>gymdone_workout</item>
         <item>handelsbanken</item>
         <item>hbo</item>
@@ -144,18 +170,27 @@
         <item>heria_pro</item>
         <item>hm</item>
         <item>home</item>
+        <item>home_smart_tradfri</item>
         <item>hound</item>
         <item>houseparty</item>
         <item>hp_print_service_plugin</item>
         <item>hp_smart</item>
+        <item>http_toolkit</item>
+        <item>hustle</item>
         <item>ica</item>
+        <item>ica_banken</item>
+        <item>ica_stammis</item>
+        <item>ikea</item>
         <item>instagram</item>
         <item>insta_tools</item>
         <item>jefit</item>
+        <item>jodel</item>
+        <item>juicessh</item>
         <item>karma</item>
         <item>kd_pro</item>
         <item>keep_notes</item>
         <item>kik</item>
+        <item>kiss_launcher</item>
         <item>kivra</item>
         <item>klarna</item>
         <item>krisinformation</item>
@@ -165,6 +200,7 @@
         <item>lansforsakringar</item>
         <item>lens</item>
         <item>lens_distortions</item>
+        <item>letsgig</item>
         <item>lifesum</item>
         <item>lightroom</item>
         <item>lime</item>
@@ -184,10 +220,15 @@
         <item>microsoft_launcher_preview</item>
         <item>mina_paket</item>
         <item>mitt_apotek</item>
+        <item>mitt_telia</item>
+        <item>mobilkupongen</item>
+        <item>mobilpark</item>
+        <item>moow</item>
         <item>mouve</item>
         <item>multi_app_uninstaller</item>
         <item>musixmatch</item>
         <item>mx_player</item>
+        <item>myworkoutplan</item>
         <item>navigation_gestures</item>
         <item>netflix</item>
         <item>niagara_launcher</item>
@@ -198,14 +239,17 @@
         <item>notes</item>
         <item>nova_launcher</item>
         <item>nova_launcher_prime</item>
+        <item>office</item>
         <item>onedrive</item>
         <item>onenote</item>
         <item>oneplus_switch</item>
         <item>one_handed_mode</item>
+        <item>onyktert</item>
         <item>openhub</item>
         <item>opera</item>
         <item>opera_touch</item>
         <item>outlook</item>
+        <item>owly</item>
         <item>oxygen_updater</item>
         <item>parkster</item>
         <item>paypal</item>
@@ -217,6 +261,7 @@
         <item>photoshop_express</item>
         <item>picsart</item>
         <item>pinchos</item>
+        <item>pinnit</item>
         <item>pinterest</item>
         <item>pinterest_lite</item>
         <item>podbean</item>
@@ -230,7 +275,11 @@
         <item>pressbyran</item>
         <item>preview</item>
         <item>profile_picture_downloader_by_poze</item>
+        <item>ps4_remote_play</item>
+        <item>ps4_second_screen</item>
         <item>qksms</item>
+        <item>qr_scanner</item>
+        <item>quicktiles_for_ikea_tradfri</item>
         <item>quicrypto</item>
         <item>radioplay</item>
         <item>randomizer</item>
@@ -239,18 +288,21 @@
         <item>recorder</item>
         <item>reddit</item>
         <item>relay</item>
+        <item>reports</item>
         <item>revolut</item>
         <item>runkeeper</item>
         <item>rush</item>
         <item>sas</item>
         <item>schoolity</item>
         <item>schoolsoft</item>
+        <item>searxer</item>
         <item>settings</item>
         <item>shazam</item>
         <item>shazam_lite</item>
         <item>sheets</item>
         <item>sj</item>
         <item>skatteverket</item>
+        <item>skip_ads</item>
         <item>skolmaten</item>
         <item>skype</item>
         <item>skype_for_business</item>
@@ -259,8 +311,10 @@
         <item>skyview_free</item>
         <item>sl</item>
         <item>slides</item>
+        <item>smhi_vader</item>
         <item>snapchat</item>
         <item>sonos</item>
+        <item>sonos_s1</item>
         <item>sos_alarm</item>
         <item>soundcloud</item>
         <item>soundhound</item>
@@ -268,21 +322,27 @@
         <item>speedtest</item>
         <item>spotify</item>
         <item>sprocket</item>
+        <item>st1_sweden</item>
         <item>stadia</item>
         <item>steam</item>
         <item>steam_chat</item>
+        <item>sthlm_traveling</item>
         <item>storyart</item>
         <item>storytel</item>
         <item>street_workout</item>
         <item>studentkortet</item>
         <item>subcard</item>
+        <item>supercons</item>
+        <item>supertext</item>
         <item>super_save</item>
         <item>svt_nyheter</item>
         <item>svt_play</item>
         <item>swing_launcher</item>
         <item>swing_launcher_pro</item>
         <item>swish</item>
+        <item>tap_tap</item>
         <item>tattoodo</item>
+        <item>td_mottagningen</item>
         <item>teams</item>
         <item>tele2_work</item>
         <item>telegram</item>
@@ -299,7 +359,9 @@
         <item>torrent_client</item>
         <item>tor_browser</item>
         <item>to_do</item>
+        <item>tradfri_melodi</item>
         <item>translate</item>
+        <item>traquer</item>
         <item>truecaller</item>
         <item>turbo_client</item>
         <item>turbo_client_editor</item>
@@ -310,13 +372,18 @@
         <item>twitter_lite</item>
         <item>uber</item>
         <item>uber_driver</item>
+        <item>ul</item>
         <item>unleash</item>
+        <item>unscripted</item>
+        <item>vanced_manager</item>
         <item>verisure</item>
         <item>viaplay</item>
+        <item>vimla</item>
         <item>vnc_viewer</item>
         <item>voi</item>
         <item>vsco</item>
         <item>vuze</item>
+        <item>wallet_watcher</item>
         <item>waze</item>
         <item>wealth_check</item>
         <item>wear_codes</item>
@@ -324,34 +391,47 @@
         <item>weather</item>
         <item>web_video_caster</item>
         <item>whatsapp</item>
+        <item>widget_screensaver</item>
         <item>willys</item>
         <item>wish</item>
+        <item>wish_em</item>
+        <item>wolt</item>
         <item>word</item>
         <item>xda</item>
         <item>xda_labs</item>
         <item>your_phone_companion</item>
         <item>youtube</item>
         <item>youtube_kids</item>
+        <item>youtube_music</item>
         <item>youtube_vanced</item>
         <item>yr</item>
+        <item>zoom</item>
         <item>_30_day_fitness_challenge</item>
         <item>_9gag</item>
 
         <item>bike_race</item>
+        <item>board_kings</item>
         <item>brain_code</item>
         <item>brawl_stars</item>
         <item>candy_crush_saga</item>
+        <item>crazy_chef</item>
         <item>draw_puzzle</item>
         <item>evil_apples</item>
+        <item>fishdom</item>
         <item>flappy_bird</item>
         <item>game_space</item>
         <item>hearthstone</item>
+        <item>hidden_hotel</item>
         <item>kahoot</item>
+        <item>king_of_avalon</item>
         <item>minecraft</item>
+        <item>my_cafe</item>
         <item>plague_inc</item>
         <item>plague_inc_scenario_creator</item>
         <item>pokemon_go</item>
         <item>pou</item>
+        <item>quizup</item>
+        <item>quiz_planet</item>
         <item>screamgohero</item>
         <item>steam_link</item>
         <item>sudoku</item>
@@ -361,12 +441,16 @@
 
     <string-array name="apps">
         <item>acast</item>
+        <item>achievement</item>
         <item>adidas_running</item>
         <item>adidas_training</item>
         <item>aegis</item>
+        <item>aide</item>
+        <item>aimo</item>
         <item>airbnb</item>
         <item>amazon_appstore</item>
         <item>android</item>
+        <item>another_widget</item>
         <item>appnotifier</item>
         <item>asus_router</item>
         <item>aurora_droid</item>
@@ -376,58 +460,76 @@
         <item>avanza</item>
         <item>babbel</item>
         <item>bankid</item>
+        <item>barcode_scanner</item>
         <item>battery_level_viewer</item>
+        <item>beer_buddy</item>
         <item>big_days</item>
         <item>bird</item>
         <item>bitcoin_wallet</item>
         <item>bitmoji</item>
+        <item>blinkist</item>
         <item>blocket</item>
         <item>blocket_jobb</item>
         <item>blokada</item>
+        <item>bodyweight_fitness</item>
         <item>bokningsappen</item>
+        <item>bolt</item>
         <item>boomerang</item>
         <item>boost</item>
+        <item>brandbassador</item>
         <item>bredbandskollen</item>
+        <item>burger_king</item>
         <item>c25k</item>
+        <item>caffeine</item>
         <item>calculator</item>
         <item>calendar</item>
         <item>calisteniapp</item>
         <item>camera</item>
         <item>canva</item>
+        <item>canvas_student</item>
+        <item>cards</item>
         <item>centr</item>
         <item>challenge_of_the_day</item>
         <item>chat</item>
         <item>chrome</item>
         <item>chrome_canary</item>
         <item>circ</item>
+        <item>citygross</item>
         <item>classroom</item>
         <item>clock</item>
+        <item>clock_pickup</item>
         <item>comics</item>
         <item>community</item>
         <item>contacts</item>
+        <item>coopons</item>
         <item>couple_game</item>
         <item>cryptotab_browser</item>
         <item>csn</item>
         <item>daily_yoga</item>
         <item>dalatrafik</item>
+        <item>darker_sky</item>
         <item>designlab</item>
         <item>device_policy</item>
         <item>digital_wellbeing</item>
         <item>din_tur</item>
         <item>discord</item>
         <item>docs</item>
+        <item>dplay</item>
         <item>drive</item>
         <item>droidcam</item>
         <item>droidcamx</item>
+        <item>drunkmode</item>
         <item>duckduckgo</item>
         <item>duo</item>
         <item>easypark</item>
+        <item>ebay</item>
         <item>electrum</item>
         <item>endomondo</item>
         <item>espressohouse</item>
         <item>evernote</item>
         <item>exercise_hub</item>
         <item>exercise_hub_plus</item>
+        <item>expressen</item>
         <item>facebook</item>
         <item>facebook_lite</item>
         <item>fairemail</item>
@@ -438,11 +540,14 @@
         <item>firefox</item>
         <item>fit</item>
         <item>follower_analyzer</item>
+        <item>foodora_se</item>
         <item>freeletics</item>
         <item>free_games_radar</item>
+        <item>friskis_uppsala</item>
         <item>f_droid</item>
         <item>galaxy_wearable</item>
         <item>gallery</item>
+        <item>gif_live_wallpaper</item>
         <item>github</item>
         <item>gmail</item>
         <item>google</item>
@@ -460,6 +565,7 @@
         <item>gopro</item>
         <item>green_screen</item>
         <item>grindr</item>
+        <item>grow</item>
         <item>gymdone_workout</item>
         <item>handelsbanken</item>
         <item>hbo</item>
@@ -468,18 +574,27 @@
         <item>heria_pro</item>
         <item>hm</item>
         <item>home</item>
+        <item>home_smart_tradfri</item>
         <item>hound</item>
         <item>houseparty</item>
         <item>hp_print_service_plugin</item>
         <item>hp_smart</item>
+        <item>http_toolkit</item>
+        <item>hustle</item>
         <item>ica</item>
+        <item>ica_banken</item>
+        <item>ica_stammis</item>
+        <item>ikea</item>
         <item>instagram</item>
         <item>insta_tools</item>
         <item>jefit</item>
+        <item>jodel</item>
+        <item>juicessh</item>
         <item>karma</item>
         <item>kd_pro</item>
         <item>keep_notes</item>
         <item>kik</item>
+        <item>kiss_launcher</item>
         <item>kivra</item>
         <item>klarna</item>
         <item>krisinformation</item>
@@ -489,6 +604,7 @@
         <item>lansforsakringar</item>
         <item>lens</item>
         <item>lens_distortions</item>
+        <item>letsgig</item>
         <item>lifesum</item>
         <item>lightroom</item>
         <item>lime</item>
@@ -508,10 +624,15 @@
         <item>microsoft_launcher_preview</item>
         <item>mina_paket</item>
         <item>mitt_apotek</item>
+        <item>mitt_telia</item>
+        <item>mobilkupongen</item>
+        <item>mobilpark</item>
+        <item>moow</item>
         <item>mouve</item>
         <item>multi_app_uninstaller</item>
         <item>musixmatch</item>
         <item>mx_player</item>
+        <item>myworkoutplan</item>
         <item>navigation_gestures</item>
         <item>netflix</item>
         <item>niagara_launcher</item>
@@ -522,14 +643,17 @@
         <item>notes</item>
         <item>nova_launcher</item>
         <item>nova_launcher_prime</item>
+        <item>office</item>
         <item>onedrive</item>
         <item>onenote</item>
         <item>oneplus_switch</item>
         <item>one_handed_mode</item>
+        <item>onyktert</item>
         <item>openhub</item>
         <item>opera</item>
         <item>opera_touch</item>
         <item>outlook</item>
+        <item>owly</item>
         <item>oxygen_updater</item>
         <item>parkster</item>
         <item>paypal</item>
@@ -541,6 +665,7 @@
         <item>photoshop_express</item>
         <item>picsart</item>
         <item>pinchos</item>
+        <item>pinnit</item>
         <item>pinterest</item>
         <item>pinterest_lite</item>
         <item>podbean</item>
@@ -554,7 +679,11 @@
         <item>pressbyran</item>
         <item>preview</item>
         <item>profile_picture_downloader_by_poze</item>
+        <item>ps4_remote_play</item>
+        <item>ps4_second_screen</item>
         <item>qksms</item>
+        <item>qr_scanner</item>
+        <item>quicktiles_for_ikea_tradfri</item>
         <item>quicrypto</item>
         <item>radioplay</item>
         <item>randomizer</item>
@@ -563,18 +692,21 @@
         <item>recorder</item>
         <item>reddit</item>
         <item>relay</item>
+        <item>reports</item>
         <item>revolut</item>
         <item>runkeeper</item>
         <item>rush</item>
         <item>sas</item>
         <item>schoolity</item>
         <item>schoolsoft</item>
+        <item>searxer</item>
         <item>settings</item>
         <item>shazam</item>
         <item>shazam_lite</item>
         <item>sheets</item>
         <item>sj</item>
         <item>skatteverket</item>
+        <item>skip_ads</item>
         <item>skolmaten</item>
         <item>skype</item>
         <item>skype_for_business</item>
@@ -583,8 +715,10 @@
         <item>skyview_free</item>
         <item>sl</item>
         <item>slides</item>
+        <item>smhi_vader</item>
         <item>snapchat</item>
         <item>sonos</item>
+        <item>sonos_s1</item>
         <item>sos_alarm</item>
         <item>soundcloud</item>
         <item>soundhound</item>
@@ -592,21 +726,27 @@
         <item>speedtest</item>
         <item>spotify</item>
         <item>sprocket</item>
+        <item>st1_sweden</item>
         <item>stadia</item>
         <item>steam</item>
         <item>steam_chat</item>
+        <item>sthlm_traveling</item>
         <item>storyart</item>
         <item>storytel</item>
         <item>street_workout</item>
         <item>studentkortet</item>
         <item>subcard</item>
+        <item>supercons</item>
+        <item>supertext</item>
         <item>super_save</item>
         <item>svt_nyheter</item>
         <item>svt_play</item>
         <item>swing_launcher</item>
         <item>swing_launcher_pro</item>
         <item>swish</item>
+        <item>tap_tap</item>
         <item>tattoodo</item>
+        <item>td_mottagningen</item>
         <item>teams</item>
         <item>tele2_work</item>
         <item>telegram</item>
@@ -623,7 +763,9 @@
         <item>torrent_client</item>
         <item>tor_browser</item>
         <item>to_do</item>
+        <item>tradfri_melodi</item>
         <item>translate</item>
+        <item>traquer</item>
         <item>truecaller</item>
         <item>turbo_client</item>
         <item>turbo_client_editor</item>
@@ -634,13 +776,18 @@
         <item>twitter_lite</item>
         <item>uber</item>
         <item>uber_driver</item>
+        <item>ul</item>
         <item>unleash</item>
+        <item>unscripted</item>
+        <item>vanced_manager</item>
         <item>verisure</item>
         <item>viaplay</item>
+        <item>vimla</item>
         <item>vnc_viewer</item>
         <item>voi</item>
         <item>vsco</item>
         <item>vuze</item>
+        <item>wallet_watcher</item>
         <item>waze</item>
         <item>wealth_check</item>
         <item>wear_codes</item>
@@ -648,36 +795,49 @@
         <item>weather</item>
         <item>web_video_caster</item>
         <item>whatsapp</item>
+        <item>widget_screensaver</item>
         <item>willys</item>
         <item>wish</item>
+        <item>wish_em</item>
+        <item>wolt</item>
         <item>word</item>
         <item>xda</item>
         <item>xda_labs</item>
         <item>your_phone_companion</item>
         <item>youtube</item>
         <item>youtube_kids</item>
+        <item>youtube_music</item>
         <item>youtube_vanced</item>
         <item>yr</item>
+        <item>zoom</item>
         <item>_30_day_fitness_challenge</item>
         <item>_9gag</item>
     </string-array>
 
     <string-array name="games">
         <item>bike_race</item>
+        <item>board_kings</item>
         <item>brain_code</item>
         <item>brawl_stars</item>
         <item>candy_crush_saga</item>
+        <item>crazy_chef</item>
         <item>draw_puzzle</item>
         <item>evil_apples</item>
+        <item>fishdom</item>
         <item>flappy_bird</item>
         <item>game_space</item>
         <item>hearthstone</item>
+        <item>hidden_hotel</item>
         <item>kahoot</item>
+        <item>king_of_avalon</item>
         <item>minecraft</item>
+        <item>my_cafe</item>
         <item>plague_inc</item>
         <item>plague_inc_scenario_creator</item>
         <item>pokemon_go</item>
         <item>pou</item>
+        <item>quizup</item>
+        <item>quiz_planet</item>
         <item>screamgohero</item>
         <item>steam_link</item>
         <item>sudoku</item>

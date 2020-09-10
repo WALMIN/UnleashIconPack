@@ -8,7 +8,7 @@ A school project turned into this icon pack, the assignment was to make somethin
 
 ### Download
 <p align="left">
-<a href="https://github.com/WALMIN/UnleashIconPack/releases/download/v1.0/com.walmin.android.unleashiconpack-v1.0-release.apk" title="Download apk"><img src="https://walmin.com/unleashiconpack/images/github_download.png" height="100"></a>
+<a href="https://github.com/WALMIN/UnleashIconPack/releases" title="Download apk"><img src="https://walmin.com/unleashiconpack/images/github_download.png" height="100"></a>
 </p>
 
 ### Developed by [Victor Bergene](https://walmin.com)
